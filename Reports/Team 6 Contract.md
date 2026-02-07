@@ -62,16 +62,23 @@
 - **Regarding deadlines:** 
   - All team-set and instructor-set deadlines are to be met.
   - If a member anticipates difficulty meeting a deadline, they must inform the team as soon as possible.
-  - To move the deadline, a majority vote is required by the
+  - To move the deadline, a majority vote is required by the team.
   - The team will collaboratively adjust workloads to ensure project timelines are maintained.
 
 ### **8. Consequences**
 
-- **Progression:** The following will be issued to and paid for by the offender:
-  1. Verbal team warning – Sing a song at the next team meeting.
-  2. Written documentation – Sing a song and bring Chick-fil-A chicken tenders to the next team meeting.
-  3. Instructor involvement – Sing a song at the team sit-down dinner with Dr. Storm.
-  - The team will pick the song to be sung by the offender
+- **Progression:** The following will be issued to the offender:
+  1. Verbal reprimand
+  2. Written reprimand and documentation
+  3. Instructor involvement 
+- **Accompanying incentive:** The offender will  ***voluntarily*** complete the following as he progresses:
+  1. Sing a song at the next team meeting.
+  2. Sing a song and bring Chick-fil-A chicken tenders to the next team meeting.
+  3. Sing a song at a team sit-down dinner with Dr. Storm.
+  - The team will pick the song to be sung by the offender.
+- **Intent:**
+  - Consequences are intended as a team bonding exercise. 
+  - The incentives are meant to be lighthearted and enjoyable; they may be refused.
 
 ### **9. Continual Progress**
 
