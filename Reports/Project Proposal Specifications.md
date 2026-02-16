@@ -30,9 +30,9 @@ Toward the end of the introduction, include a subsection that outlines what the 
 Formulating the problem or objective involves clearly defining it through background information, specifications, and constraints. Think of it as "fencing in" the objective to make it unambiguously clear what is and is not being addressed and why.
 
 Questions to consider:
-- Who does the problem affect (i.e. who is your customer)? This solution targets owners of electric golf carts who wish to supplement their vehicle’s power supply through solar energy, eliminating dependence on traditional outlet-based charging. The intended customer is any electric golf cart owner seeking a more autonomous and flexible charging solution.
+- Who does the problem affect (i.e. who is your customer)? This solution targets owners of electric golf car who wish to supplement their vehicle’s power supply through solar energy, eliminating dependence on traditional outlet-based charging. The intended customer is any electric golf car owner seeking a more autonomous and flexible charging solution.
 -   
-- Why do we need this solution? This solution addresses a critical gap in usability – when a golf cart’s battery is depleted during active use and no electrical outlet is accessible, the vehicle becomes inoperable. By integrating a solar charging panel, the cart can passively recharge while stationary and exposed to sunlight, extending operational range and reducting downtime without requiring access to traditional charging infrastructure.
+- Why do we need this solution? This solution addresses a critical gap in usability – when a golf car’s battery is depleted during active use and no electrical outlet is accessible, the vehicle becomes inoperable. By integrating a solar charging panel, the cart can passively recharge while stationary and exposed to sunlight, extending operational range and reducting downtime without requiring access to traditional charging infrastructure.
   
 - What challenges necessitate a dedicated, multi-person engineering team? Several factors make a multi-person engineering team essential. First, safety oversight cannot be managed by a single individual who is simultaneously performing hands-on-testing – a dedicated team member should always monitor for hazards. Second, the system comprises multiple distinct subsystems, each requiring specialized technical knowledge that no single engineer is likely to possess across all areas. Third, live testing demands the simultaneous collection of data across multiple points in the system, which is physically impossible for one person to manage alone.
   
@@ -42,7 +42,7 @@ Questions to consider:
 
 Provide context and details necessary to define the problem clearly and delineate its boundaries.
 
-### Specifications and Constraints
+### Specifications and Constraints ( Need more help )
 
 Specifications and constraints define the system's requirements. They can be positive (do this) or negative (don't do that). They can be mandatory (shall or must) or optional (may). They can cover performance, accuracy, interfaces, or limitations. Regardless of their origin, they must be unambiguous and impose measurable requirements.
 
